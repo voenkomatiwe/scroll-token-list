@@ -1,0 +1,16 @@
+{
+  "name": "Scamfari",
+  "symbol": "SCM",
+  "decimals": 18,
+  "description": "Scamfari Token",
+  "website": "https://scamfari.com/",
+  "twitter": "@scamfari",
+  "tokens": {
+    "ethereum": {
+      "address": "0x8353b92201f19b4812eee32efd325f7ede123718"
+    },
+    "scroll": {
+      "address": "0x8353b92201f19B4812EeE32EFd325f7EDe123718"
+    }
+  }
+}
